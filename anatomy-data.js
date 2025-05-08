@@ -7959,7 +7959,7 @@ const anatomyData = [
     "Incorrect: Flexor digitorum profundus primarily flexes the distal interphalangeal joints rather than coordinating MCP flexion and IP extension."
   ],
   "slideLink": "Practical7_MSK.pdf"
-},
+}
 
   
-],
+]

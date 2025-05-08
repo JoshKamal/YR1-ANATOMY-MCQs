@@ -7960,6 +7960,4 @@ const anatomyData = [
   ],
   "slideLink": "Practical7_MSK.pdf"
 }
-
-  
-]
+];

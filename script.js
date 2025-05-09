@@ -323,4 +323,4 @@ window.addEventListener("DOMContentLoaded", () => {
   shuffleQuestions(activeQuestions);
   switchTab('quiz')
   renderQuestion();
-}
+});
